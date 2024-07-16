@@ -1,0 +1,57 @@
+.a{
+    display:flex;
+    flex-direction:column;
+    height:100vh;
+    width:200vh;
+}
+.a1{
+    display: flex;
+    background-color: aqua;
+    height:20vh;
+    width:200vh;
+    justify-content: center;
+    align-items: center;
+}
+.a2{
+    display: flex;
+     height: 30vh;
+     width:200vh;
+     flex-direction: column;
+     background-color: bisque;
+     justify-content: center;
+     align-items: center;
+     justify-content: space-around;
+}
+.p{
+    height: 10vh;
+    width:50vh;
+    border-radius: 2vh;
+}
+.a3{
+    display: flex;
+     height: 30vh;
+     width:200vh;
+     flex-direction:row;
+     background-color: cadetblue;
+     justify-content: center;
+     align-items: center;
+     justify-content: space-around;
+    
+}
+.a31{
+    display:flex;
+    height: 20vh;
+    width:40vh ;
+   background-color: chartreuse;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3vh;
+}
+.a4{
+    display: flex;
+    height: 20vh;
+    width:200vh;
+    background-color: blueviolet;
+    justify-content: center;
+    align-items: center;
+}
